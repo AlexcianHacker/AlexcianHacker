@@ -10,3 +10,7 @@ I'm A Gamer And I Like Debian Linux. I Also Like Biology/Zoology, Astronomy, His
 ## <p align="center"> Languages And Programming 
 
 <p align="center"> I Use Python, C/C++ And Java, But I Am Learning HTML/CSS And Assembly. I Also Plan To Learn JavaScript (Sadness) And Rust. 
+
+## <p align="center"> Hacking / CyberSecurity 
+
+<p align="center"> I Founded And Lead The Alexcían Empire (AE) & I Also Lead Chaos Gang (CG) & The Legions Of The Archangels (LOTA) 
