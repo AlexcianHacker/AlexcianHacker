@@ -14,3 +14,7 @@ I'm A Gamer And I Like Debian Linux, Visual Studio Code && Vim. I Also Like Biol
 ## <p align="center"> Hacking / CyberSecurity 
 
 <p align="center"> I Founded And Used To Lead The Alexcían Empire (AE) & I Also Used To Lead Chaos Gang (CG) & The Legions Of The Archangels (LOTA) 
+
+## <p align="center"> Notes / Miscellaneous Items 
+
+<p align="center"> Any Platform-Dependent Tools Or Utilities Produced To This Github May Or May Not Be Rewritten To Be More Cross-Platform Later, At My Own Discretion 
