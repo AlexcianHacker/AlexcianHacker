@@ -9,7 +9,7 @@ I'm A Gamer And I Like Debian Linux, Visual Studio Code && Vim. I Also Like Biol
 
 ## <p align="center"> Languages And Programming 
 
-<p align="center"> I Use Python, C/C++ And Java, But I Am Learning HTML/CSS And Assembly. I Also Plan To Learn JavaScript (Sadness) && Rust. 
+<p align="center"> I Use Python, C/C++ And Java, I Know Brainfuck, But I Am Learning HTML/CSS And Assembly. I Also Plan To Learn JavaScript (Sadness) && Rust. 
 
 ## <p align="center"> Hacking / CyberSecurity 
 
