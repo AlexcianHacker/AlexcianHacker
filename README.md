@@ -5,7 +5,7 @@
 
 ## <p align="center"> About Me 
 
-I'm A Gamer And I Like Debian Linux, Visual Studio Code && Vim. I Also Like Biology/Zoology, Astronomy, Science, History And Philosophy. 
+I'm A Gamer And I Like Debian Linux, Alpine Linux, Devuan Linux, Visual Studio Code && Vim. I Also Like Biology/Zoology, Astronomy, Science, History And Philosophy. 
 
 ## <p align="center"> Languages And Programming 
 
