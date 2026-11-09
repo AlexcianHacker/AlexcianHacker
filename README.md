@@ -9,7 +9,7 @@ I'm A Gamer And I Like Debian Linux, Alpine Linux, Devuan Linux, Visual Studio C
 
 ## <p align="center"> Languages And Programming 
 
-<p align="center"> I Use Python, C/C++ And Java, I Know Brainfuck And HTML, But I Am Learning CSS And Assembly. I'm Also Learning D, JavaScript (Sadness) && Rust. 
+<p align="center"> I Use Python, C/C++, Java, And Rust, I Know Brainfuck And HTML, But I Am Learning CSS And Assembly. I'm Also Learning D And JavaScript (Sadness). 
 
 ## <p align="center"> Hacking / CyberSecurity 
 
